@@ -1,0 +1,26 @@
+body {
+    padding:0%;
+    margin:0;
+    width: 100%;
+    height:100%;
+}
+
+.nav{
+    background-color: #008CA1;
+    overflow: hidden;
+}
+
+.nav a{
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.nav h2{
+    text-align:center;
+    font-family: 'Poiret One';
+    font-weight: 1000;
+}
