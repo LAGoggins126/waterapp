@@ -1,0 +1,35 @@
+body, html {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+img {
+   width: 100%;
+   height: 100%;
+}
+body{
+  background-image: url(../waterapp/pexels-sebastian-voortman-189349.jpg);
+  background-size: cover;
+}
+p{
+  position: absolute;
+  text-align: center;
+  top: 40%;
+  bottom: 50%;;
+  font-size: 35px;
+  right: 15%;
+  left: 15%;
+}
+.title{
+  text-align: center;
+  top: 20%;
+  font-size: 50px;
+}
+button{
+  position: absolute;
+  right: 45%;
+  left: 45%;
+  bottom: 12%;
+  font-size: 30px;
+}
