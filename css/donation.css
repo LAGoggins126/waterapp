@@ -1,0 +1,43 @@
+body{
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    background-image: url(../images/pexels-kellie-churchman-1001682.jpg);
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box{
+    width: 550px;
+    display: grid;
+    grid-template-columns: 55% 45%;
+    grid-gap: 5%;
+    margin-left: 30%;
+    margin-top: 2%;
+}
+
+.box div{
+    padding: 20px;
+    background-color: #E2EBF1;
+}
+
+.sources{
+    font-family: 'Poiret One';
+    text-align:center;
+
+}
+
+.sources ul{
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 300%;
+    text-align: left;
+    text-decoration: none;
+    color:black;
+    font-family: 'Poiret One';
+}
+
+.sources a{
+    color:black;  
+}
