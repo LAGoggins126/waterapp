@@ -11,7 +11,7 @@ body{
 .box{
     width: 550px;
     display: grid;
-    grid-template-columns: 35% 60%;
+    grid-template-columns: 55% 45%;
     grid-gap: 5%;
     margin-left: 30%;
     margin-top: 2%;
@@ -20,4 +20,24 @@ body{
 .box div{
     padding: 20px;
     background-color: #E2EBF1;
+}
+
+.sources{
+    font-family: 'Poiret One';
+    text-align:center;
+
+}
+
+.sources ul{
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 300%;
+    text-align: left;
+    text-decoration: none;
+    color:black;
+    font-family: 'Poiret One';
+}
+
+.sources a{
+    color:black;  
 }
