@@ -41,3 +41,14 @@ body{
 .sources a{
     color:black;  
 }
+
+.top h2{
+    font-family: 'Poiret One';
+    text-align: center;
+}
+
+.top ol{
+    font-weight: 800;
+    line-height: 300%;
+    font-size: 16px;
+}
