@@ -1,5 +1,3 @@
-
-
 document.addEventListener("DOMContentLoaded", function(){
 
     document.body.querySelector(".btn").addEventListener("click", function(){
